@@ -13,7 +13,7 @@ Try the web version [here](https://pawelwiklo.github.io/AI-Word-Guess-Web-Demo/)
 
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=com.pawik.word_game">
- <img align="center" alt="keystrokes" src="https://raw.githubusercontent.com/pawelwiklo/AI-Word-Guess-Web-Demo/main/assets/app_icon.png" width="500" />
+ <img align="center" alt="keystrokes" src="https://raw.githubusercontent.com/pawelwiklo/AI-Word-Guess-Web-Demo/main/assets/feature_panel_en.png" width="500" />
  </p>
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=com.pawik.word_game">
