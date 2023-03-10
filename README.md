@@ -7,7 +7,10 @@
 - 📫 How to reach me: wiklopawel@gmail.com
 - ⚡ Fun fact: I've got two lovely cats!
 
-Checkout my new project!
+# Checkout my new project!
+
+Try the web version [here](https://pawelwiklo.github.io/AI-Word-Guess-Web-Demo/)
+
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=com.pawik.word_game">
  <img align="center" alt="keystrokes" src="https://raw.githubusercontent.com/pawelwiklo/AI-Word-Guess-Web-Demo/main/assets/app_icon.png" width="500" />
@@ -17,7 +20,7 @@ Checkout my new project!
  <img align="center" alt="keystrokes" src="https://raw.githubusercontent.com/pawelwiklo/AI-Word-Guess-Web-Demo/main/assets/google-play-badge.png" width="500"  />
  </p>
  
-# And my other repos.
+# And my other repos
  
  <p>
   <img src="https://raw.githubusercontent.com/pawelwiklo/twitch_hover_effect/master/gifs/twitch.gif" width="100" height="150" />
