@@ -20,22 +20,22 @@ Checkout my new project!
 # And my other repos.
  
  <p>
-  <img src="https://raw.githubusercontent.com/pawelwiklo/twitch_hover_effect/master/gifs/twitch.gif" width="300" height="500" />
-  <img src="https://raw.githubusercontent.com/pawelwiklo/loading_effect/master/gifs/loading_1.gif" width="300" height="500"/>
-  <img src="https://raw.githubusercontent.com/pawelwiklo/guess-the-word/main/gifs/1.gif" width="300" height="500"/>
+  <img src="https://raw.githubusercontent.com/pawelwiklo/twitch_hover_effect/master/gifs/twitch.gif" width="100" height="150" />
+  <img src="https://raw.githubusercontent.com/pawelwiklo/loading_effect/master/gifs/loading_1.gif" width="100" height="150"/>
+  <img src="https://raw.githubusercontent.com/pawelwiklo/guess-the-word/main/gifs/1.gif" width="100" height="150"/>
 </p>
  
  
 <p>
-  <img src="https://raw.githubusercontent.com/pawelwiklo/gradient_hover_effect/master/gifs/hover_effect_list.gif" width="300" />
-  <img src="https://raw.githubusercontent.com/pawelwiklo/header_effect/master/gifs/header.gif" width="300" /> 
-  <img src="https://raw.githubusercontent.com/pawelwiklo/magic_text_effect/master/gifs/magic.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/pawelwiklo/gradient_hover_effect/master/gifs/hover_effect_list.gif" width="100" />
+  <img src="https://raw.githubusercontent.com/pawelwiklo/header_effect/master/gifs/header.gif" width="100" /> 
+  <img src="https://raw.githubusercontent.com/pawelwiklo/magic_text_effect/master/gifs/magic.gif" width="100"/>
 </p>
 
  
 <p>
- <img src="https://raw.githubusercontent.com/pawelwiklo/light_under_mouse_on_container_effect/master/gifs/light_hover.gif" width="300" />
- <img src="https://raw.githubusercontent.com/pawelwiklo/kippo_hover_card_effect/master/gifs/cards_hover.gif" width="300" /> 
+ <img src="https://raw.githubusercontent.com/pawelwiklo/light_under_mouse_on_container_effect/master/gifs/light_hover.gif" width="100" />
+ <img src="https://raw.githubusercontent.com/pawelwiklo/kippo_hover_card_effect/master/gifs/cards_hover.gif" width="100" /> 
 </p>
 
 
